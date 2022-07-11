@@ -15,5 +15,9 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 
+## Basic technology:
+ React, JSX, useState, useMemo, useObserve, Intersection Observer API, react-router-dom@6
+
+
 
 
